@@ -1,0 +1,1786 @@
+============Node========================
+parameter  | node_logical_name | anchor_eNB | 
+properties |                   |            | 
+z          | values            | nodeDumpName | 
+
+============Sector========================
+parameter  | sector_identity | node_logical_name | sector     | antenna_unit_group_id | connect_to | connect_to_ref | macsec_profile | 
+properties |                 |                   |            |                       |            |                |                | 
+z          | values          | z                 | Select ... | z                     | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+z          | Select ...      | z                 | Select ... | 
+
+============NR cell========================
+parameter  | cell_name | node_logical_name | operating_mode | sector | frequency  | carrier | number_of_tx_antennas | number_of_rx_antennas | tx_branches | rx_branches | 
+properties |           |                   |                |        |            |         |                       |                       |             |             | 
+z          | values    | z                 | Select ...     | z      | Select ... | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+z          | Select ... | z                 | Select ...     | 
+
+============LTE cell========================
+parameter  | cell_name | node_logical_name | LTE_cell_mode | 
+properties |           |                   |               | 
+z          | values    | z                 | Select ...    | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+z          | Select ... | 
+
+============Sector definition========================
+name       | SEC1     | SEC2     | SEC3     | 
+radio_type | Radio    | AIR      | Radio    | 
+RBB        | RBB22_1B | RBB44_1D | RBB22_2C | 
+ABB        | ABB2_1A  | ABB4_1A  | ABB2_2A  | 
+
+============NR frequency definition========================
+name           | FRQ1    | FRQ2    | FRQ3     | 
+band_type      | Lowband | Midband | Highband | 
+frequency_type | FDD     | TDD     | TDD      | 
+ARFCN          |         | 285400  | 2016667  | 
+downlink_ARFCN | 126900  |         |          | 
+uplink_ARFCN   | 136100  |         |          | 
+SSB_frequency  | 124400  | 275400  | 2016767  | 
+
+============LTE frequency definition========================
+name            | FRQ4 | FRQ5  | 
+frequency_type  | FDD  | TDD   | 
+EARFCN          |      | 36000 | 
+downlink_EARFCN | 0    |       | 
+uplink_EARFCN   | 0    |       | 
+
